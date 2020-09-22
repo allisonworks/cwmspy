@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Facilities for working with locations in the CWMS database
+Facilities for working with users in the CWMS database
 """
 import argparse
 import sys
